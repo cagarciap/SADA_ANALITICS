@@ -1,0 +1,20 @@
+.seleccionMetodo{
+    float: left;
+}
+
+.formulario{
+    float: right;
+}
+
+.metodo{
+    display: none;
+}
+
+.table-BusquedasIncrementales{
+    width: 500px;
+}
+
+.text-align{
+    text-align: center;
+}
+
